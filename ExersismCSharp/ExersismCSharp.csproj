@@ -48,6 +48,8 @@
     <Compile Include="bob\BobTest.cs" />
     <Compile Include="etl\ETL.cs" />
     <Compile Include="etl\ETLTest.cs" />
+    <Compile Include="Hamming\Hamming.cs" />
+    <Compile Include="Hamming\HammingTest.cs" />
     <Compile Include="leap\LeapTest.cs" />
     <Compile Include="leap\Year.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
